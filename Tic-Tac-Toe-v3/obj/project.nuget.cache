@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "asKm9pVlQZHYGd5qaqK3rRT9K27jw5Eu6WteRpmuSdwlo0MzsXs0maPbfGMHcVBd6t0rfS+aF1EU5+hBGJLeLQ==",
+  "success": true,
+  "projectFilePath": "D:\\Uni_items\\Year_4\\FP\\Tic-Tac-Toe-v3\\Tic-Tac-Toe-v3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zakth\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\zakth\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\zakth\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
